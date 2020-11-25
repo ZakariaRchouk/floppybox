@@ -1,3 +1,5 @@
+[![](https://data.jsdelivr.com/v1/package/npm/fireworks-react/badge)](https://www.jsdelivr.com/package/npm/fireworks-react)
+
 # floppybox
 
 FlappyBird-like game contained within a ReactJS component.
